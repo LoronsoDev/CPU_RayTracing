@@ -1,2 +1,5 @@
 ﻿  main.cpp
-  CPU_RayTracing.vcxproj -> C:\Proyectos\CPU_RayTracing\CPU_RayTracing\bin\x64\Debug\CPU_RayTracing.exe
+  RayTracingTools.cpp
+  RendererTools.cpp
+  Generando código...
+  CPU_RayTracing.vcxproj -> C:\Proyectos\CPU_RayTracing\bin\x64\Debug\CPU_RayTracing.exe
