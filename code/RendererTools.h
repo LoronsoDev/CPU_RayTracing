@@ -3,6 +3,7 @@
 #pragma once
 #include <SDL.h>
 #include <glm.hpp>
+#include "Light.h"
 
 typedef glm::u8vec4 RGBA8888;
 typedef glm::u8vec3 RGB888;
